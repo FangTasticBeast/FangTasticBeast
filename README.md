@@ -1,17 +1,9 @@
-# 🪶 Professional Summary
+# 🌱 About me
 
 Hi I am @FangTasticBeast and I am a highly enthusiastic programmer with high aspirations for every project I start.
 I have been programming since mid 2017 in Roblox and Unity with a wide range of languages including ```Java```, ```Lua``` and ```C```. 
 I am currently studying Computer Science in University with hopes to be moving into the game development industry once completed. 
-Currently I am launching Open-Sourced projects to help developers on Roblox reach their full potential with features rarely or never seen before. 
-
-# 🌱 About me
-
-- Currently in Perth Australia (GMT+8)
-- Caffeine Addiction
-- Huge Metal fan
-- Huge fan of Monty Python, Harry Potter and Hitchhiker's guide
-- INTJ
+Currently I am launching Open-Sourced projects to help developers on Roblox reach their full potential with features rarely or never seen before. Perth Australia (GMT+8)
 
 # 📫 Social Links
 
